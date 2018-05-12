@@ -1,4 +1,4 @@
-(kicad_pcb (version 4) (host pcbnew 4.0.7-e2-6376~58~ubuntu16.04.1)
+(kicad_pcb (version 4) (host pcbnew 4.0.7-e2-6376~61~ubuntu18.04.1)
 
   (general
     (links 168)
@@ -13,6 +13,13 @@
   )
 
   (page A4)
+  (title_block
+    (title ev-charger-met16)
+    (date 2018-05-12)
+    (rev 0.1)
+    (company Manfred.Steiner@gmx.at)
+  )
+
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)
@@ -37,7 +44,7 @@
   )
 
   (setup
-    (last_trace_width 0.5)
+    (last_trace_width 0.25)
     (user_trace_width 0.25)
     (user_trace_width 0.4)
     (user_trace_width 0.5)
@@ -2980,7 +2987,7 @@
   (gr_text PE (at 149.468 100.03) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
-  (gr_text "EV Charger MET16 V1.0 / SX" (at 197.728 122.89) (layer F.SilkS)
+  (gr_text "EV Charger MET16 V0.1 / SX" (at 197.728 122.89) (layer F.SilkS)
     (effects (font (size 1.2 1.2) (thickness 0.2)))
   )
   (gr_text "EV / TYP 2 - OUT" (at 190.362 116.0955) (layer F.SilkS)
