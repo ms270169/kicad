@@ -7,7 +7,7 @@
 ----------------------------------------------
  Topic          | Description
  :----          | :-----------
- Commit         | [3cf1186470543ce20f478d2e2e48a76af5a9076f](kicad/commit/3cf1186470543ce20f478d2e2e48a76af5a9076f)
+ Commit         | [3cf1186470543ce20f478d2e2e48a76af5a9076f](https://github.com/ManfredSteiner/kicad/tree/3cf1186470543ce20f478d2e2e48a76af5a9076f/ev-charger-met16)
  Status         | Design finished
  Manufactured   | No
  Tested         | No
